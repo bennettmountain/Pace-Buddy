@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Running Pace Calculator</string>
+    <string name="textview">Overall Pace</string>
+    <string name="enter_time">Enter time</string>
+    <string name="enter_distance">Enter distance (miles)</string>
+    <string name="button">Calculate Pace</string>
+    <!-- <string name="textview">TextView</string> -->
+    <string name="enter_hours">Enter hours</string>
+    <string name="enter_minutes">Enter minutes</string>
+    <string name="enter_seconds">Enter seconds</string>
+    <string name="minutes">&#160;minutes&#160;</string>
+    <string name="seconds_per_mile">&#160;seconds per mile</string>
+</resources>
